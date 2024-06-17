@@ -1,0 +1,514 @@
+[
+    {
+        "id": 1,
+        "entrenador": "Ash Ketchum",
+        "foto": "app/img/ash.PNG",
+        "pokemons": [
+            {
+                "nombre": "Pikachu",
+                "tipo": "eléctrico",
+                "foto": "app/img/25.PNG"
+            },
+            {
+                "nombre": "Krookodile",
+                "tipo": "tierra",
+                "foto": "app/img/553.PNG"
+            },
+            {
+                "nombre": "Pidgeot",
+                "tipo": "volador",
+                "foto": "app/img/18.PNG"
+            },
+            {
+                "nombre": "Snorlax",
+                "tipo": "normal",
+                "foto": "app/img/143.PNG"
+            },
+            {
+                "nombre": "Fletchling",
+                "tipo": "volador",
+                "foto": "app/img/661.PNG"
+            }
+        ]
+    },
+    {
+        "id": 2,
+    "entrenador": "Cynthia",
+    "foto": "app/img/cynthia.PNG",
+    "pokemons": [
+        {
+            "nombre": "Spiritomb",
+            "tipo": "fantasma",
+            "foto": "app/img/442.PNG"
+        },
+        {
+            "nombre": "Roserade",
+            "tipo": "planta",
+            "foto": "app/img/407.PNG"
+        },
+        {
+            "nombre": "Togekiss",
+            "tipo": "hada",
+            "foto": "app/img/468.PNG"
+        },
+        {
+            "nombre": "Lucario",
+            "tipo": "lucha",
+            "foto": "app/img/448.PNG"
+        },
+        {
+            "nombre": "Milotic",
+            "tipo": "agua",
+            "foto": "app/img/350.PNG"
+        },
+        {
+            "nombre": "Garchomp",
+            "tipo": "dragón",
+            "foto": "app/img/445.PNG"
+        }
+    ]
+    },
+    {
+        "id": 3,
+        "entrenador": "Lance",
+        "foto": "app/img/lance.PNG",
+        "pokemons": [
+            {
+                "nombre": "Gyarados",
+                "tipo": "agua",
+                "foto": "app/img/130.PNG"
+            },
+            {
+                "nombre": "Dragonite",
+                "tipo": "dragón",
+                "foto": "app/img/149.PNG"
+            },
+            {
+                "nombre": "Dragonite",
+                "tipo": "dragón",
+                "foto": "app/img/149.PNG"
+            },
+            {
+                "nombre": "Dragonite",
+                "tipo": "dragón",
+                "foto": "app/img/149.PNG"
+            },
+            {
+                "nombre": "Aerodactyl",
+                "tipo": "roca",
+                "foto": "app/img/142.PNG"
+            },
+            {
+                "nombre": "Charizard",
+                "tipo": "fuego",
+                "foto": "app/img/6.PNG"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "entrenador": "Steven",
+        "foto": "app/img/steven.PNG",
+        "pokemons": [
+            {
+                "nombre": "Skarmory",
+                "tipo": "acero",
+                "foto": "app/img/227.PNG"
+            },
+            {
+                "nombre": "Claydol",
+                "tipo": "tierra",
+                "foto": "app/img/344.PNG"
+            },
+            {
+                "nombre": "Aggron",
+                "tipo": "acero",
+                "foto": "app/img/306.PNG"
+            },
+            {
+                "nombre": "Cradily",
+                "tipo": "roca",
+                "foto": "app/img/346.PNG"
+            },
+            {
+                "nombre": "Armaldo",
+                "tipo": "roca",
+                "foto": "app/img/348.PNG"
+            },
+            {
+                "nombre": "Metagross",
+                "tipo": "acero",
+                "foto": "app/img/376.PNG"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "entrenador": "Wallace",
+        "foto": "app/img/wallace.PNG",
+        "pokemons": [
+            {
+                "nombre": "Wailord",
+                "tipo": "agua",
+                "foto": "app/img/321.PNG"
+            },
+            {
+                "nombre": "Tentacruel",
+                "tipo": "agua",
+                "foto": "app/img/73.PNG"
+            },
+            {
+                "nombre": "Ludicolo",
+                "tipo": "agua",
+                "foto": "app/img/272.PNG"
+            },
+            {
+                "nombre": "Whiscash",
+                "tipo": "agua",
+                "foto": "app/img/340.PNG"
+            },
+            {
+                "nombre": "Gyarados",
+                "tipo": "agua",
+                "foto": "app/img/130.PNG"
+            },
+            {
+                "nombre": "Milotic",
+                "tipo": "agua",
+                "foto": "app/img/350.PNG"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "entrenador": "Blue",
+        "foto": "app/img/blue.PNG",
+        "pokemons": [
+            {
+                "nombre": "Pidgeot",
+                "tipo": "volador",
+                "foto": "app/img/18.PNG"
+            },
+            {
+                "nombre": "Alakazam",
+                "tipo": "psíquico",
+                "foto": "app/img/65.PNG"
+            },
+            {
+                "nombre": "Rhydon",
+                "tipo": "roca",
+                "foto": "app/img/112.PNG"
+            },
+            {
+                "nombre": "Exeggutor",
+                "tipo": "planta",
+                "foto": "app/img/103.PNG"
+            },
+            {
+                "nombre": "Arcanine",
+                "tipo": "fuego",
+                "foto": "app/img/59.PNG"
+            },
+            {
+                "nombre": "Gyarados",
+                "tipo": "agua",
+                "foto": "app/img/130.PNG"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "entrenador": "Alder",
+        "foto": "app/img/alder.PNG",
+        "pokemons": [
+            {
+                "nombre": "Accelgor",
+                "tipo": "bicho",
+                "foto": "app/img/617.PNG"
+            },
+            {
+                "nombre": "Bouffalant",
+                "tipo": "normal",
+                "foto": "app/img/626.PNG"
+            },
+            {
+                "nombre": "Druddigon",
+                "tipo": "dragón",
+                "foto": "app/img/621.PNG"
+            },
+            {
+                "nombre": "Escavalier",
+                "tipo": "bicho",
+                "foto": "app/img/589.PNG"
+            },
+            {
+                "nombre": "Vanilluxe",
+                "tipo": "hielo",
+                "foto": "app/img/584.PNG"
+            },
+            {
+                "nombre": "Volcarona",
+                "tipo": "bicho",
+                "foto": "app/img/637.PNG"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 8,
+        "entrenador": "Diantha",
+        "foto": "app/img/diantha.PNG",
+        "pokemons": [
+            {
+                "nombre": "Hawlucha",
+                "tipo": "lucha",
+                "foto": "app/img/701.PNG"
+            },
+            {
+                "nombre": "Tyrantrum",
+                "tipo": "roca",
+                "foto": "app/img/697.PNG"
+            },
+            {
+                "nombre": "Aurorus",
+                "tipo": "roca",
+                "foto": "app/img/699.PNG"
+            },
+            {
+                "nombre": "Gourgeist",
+                "tipo": "fantasma",
+                "foto": "app/img/711.PNG"
+            },
+            {
+                "nombre": "Goodra",
+                "tipo": "dragón",
+                "foto": "app/img/706.PNG"
+            },
+            {
+                "nombre": "Gardevoir",
+                "tipo": "psíquico",
+                "foto": "app/img/282.PNG"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "entrenador": "Kukui",
+        "foto": "app/img/kukui.PNG",
+        "pokemons": [
+            {
+                "nombre": "Lycanroc",
+                "tipo": "roca",
+                "foto": "app/img/745.PNG"
+            },
+            {
+                "nombre": "Braviary",
+                "tipo": "volador",
+                "foto": "app/img/628.PNG"
+            },
+            {
+                "nombre": "Snorlax",
+                "tipo": "normal",
+                "foto": "app/img/143.PNG"
+            },
+            {
+                "nombre": "Magnezone",
+                "tipo": "eléctrico",
+                "foto": "app/img/462.PNG"
+            },
+            {
+                "nombre": "Ninetales (Alola)",
+                "tipo": "hielo",
+                "foto": "app/img/38-alola.PNG"
+            },
+            {
+                "nombre": "Incineroar",
+                "tipo": "fuego",
+                "foto": "app/img/727.PNG"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 10,
+        "entrenador": "Leon",
+        "foto": "app/img/leon.PNG",
+        "pokemons": [
+            {
+                "nombre": "Aegislash",
+                "tipo": "acero",
+                "foto": "app/img/681.PNG"
+            },
+            {
+                "nombre": "Dragapult",
+                "tipo": "dragón",
+                "foto": "app/img/887.PNG"
+            },
+            {
+                "nombre": "Haxorus",
+                "tipo": "dragón",
+                "foto": "app/img/612.PNG"
+            },
+            {
+                "nombre": "Seismitoad",
+                "tipo": "agua",
+                "foto": "app/img/537.PNG"
+            },
+            {
+                "nombre": "Mr. Rime",
+                "tipo": "hielo",
+                "foto": "app/img/866.PNG"
+            },
+            {
+                "nombre": "Charizard",
+                "tipo": "fuego",
+                "foto": "app/img/6.PNG"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "entrenador": "Iris",
+        "foto": "app/img/iris.PNG",
+        "pokemons": [
+            {
+                "nombre": "Hydreigon",
+                "tipo": "siniestro",
+                "foto": "app/img/635.PNG"
+            },
+            {
+                "nombre": "Archeops",
+                "tipo": "roca",
+                "foto": "app/img/567.PNG"
+            },
+            {
+                "nombre": "Aggron",
+                "tipo": "acero",
+                "foto": "app/img/306.PNG"
+            },
+            {
+                "nombre": "Lapras",
+                "tipo": "agua",
+                "foto": "app/img/131.PNG"
+            },
+            {
+                "nombre": "Druddigon",
+                "tipo": "dragón",
+                "foto": "app/img/621.PNG"
+            },
+            {
+                "nombre": "Haxorus",
+                "tipo": "dragón",
+                "foto": "app/img/612.PNG"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 12,
+        "entrenador": "Giovanni",
+        "foto": "app/img/giovanni.PNG",
+        "pokemons": [
+            {
+                "nombre": "Rhyhorn",
+                "tipo": "tierra",
+                "foto": "app/img/111.PNG"
+            },
+            {
+                "nombre": "Dugtrio",
+                "tipo": "tierra",
+                "foto": "app/img/51.PNG"
+            },
+            {
+                "nombre": "Nidoqueen",
+                "tipo": "tierra",
+                "foto": "app/img/31.PNG"
+            },
+            {
+                "nombre": "Nidoking",
+                "tipo": "tierra",
+                "foto": "app/img/34.PNG"
+            },
+            {
+                "nombre": "Persian",
+                "tipo": "normal",
+                "foto": "app/img/53.PNG"
+            },
+            {
+                "nombre": "Garchomp",
+                "tipo": "dragón",
+                "foto": "app/img/445.PNG"
+            }
+        ]
+    }
+    ,
+    {
+        "id": 13,
+        "entrenador": "Giovanni",
+        "foto": "app/src/imagen/javier.PNG",
+        "pokemons": [
+            {
+                "nombre": "Persian",
+                "tipo": "normal",
+                "foto": "app/src/imagen/77.PNG"
+            },
+            {
+                "nombre": "Nidoqueen",
+                "tipo": "veneno",
+                "foto": "app/src/imagen/82.PNG"
+            },
+            {
+                "nombre": "Golem",
+                "tipo": "roca",
+                "foto": "app/src/imagen/142.PNG"
+            },
+            {
+                "nombre": "Rhyhorn",
+                "tipo": "tierra",
+                "foto": "app/src/imagen/127.PNG"
+            },
+            {
+                "nombre": "Dugtrio",
+                "tipo": "tierra",
+                "foto": "app/src/imagen/127.PNG"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "entrenador": "N",
+        "foto": "app/img/n.PNG",
+        "pokemons": [
+            {
+                "nombre": "Zoroark",
+                "tipo": "siniestro",
+                "foto": "app/img/571.PNG"
+            },
+            {
+                "nombre": "Carracosta",
+                "tipo": "agua",
+                "foto": "app/img/565.PNG"
+            },
+            {
+                "nombre": "Archeops",
+                "tipo": "roca",
+                "foto": "app/img/567.PNG"
+            },
+            {
+                "nombre": "Vanilluxe",
+                "tipo": "hielo",
+                "foto": "app/img/584.PNG"
+            },
+            {
+                "nombre": "Klinklang",
+                "tipo": "acero",
+                "foto": "app/img/601.PNG"
+            },
+            {
+                "nombre": "Zekrom",
+                "tipo": "dragón",
+                "foto": "app/img/644.PNG"
+            }
+        ]
+    }
+]

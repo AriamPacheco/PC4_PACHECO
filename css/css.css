@@ -1,0 +1,85 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  #entrenadores {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .card {
+    width: 300px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .card-title {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+  }
+  
+  .btn {
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  #pokemon-list {
+    margin-top: 40px;
+  }
+  
+  #pokemon-list h3 {
+    text-align: center;
+    color: #007bff;
+  }
+  
+  .list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    transition: background-color 0.3s;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .list-group-item img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  #combate {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  #combate p {
+    font-size: 1.2em;
+    color: #28a745;
+    font-weight: bold;
+  }
+  
+  #combate .btn {
+    margin-top: 15px;
+  }
